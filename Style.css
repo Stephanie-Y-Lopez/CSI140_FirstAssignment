@@ -1,0 +1,28 @@
+body{
+  background-color: rgb(251,232,214);
+}
+
+h1{
+  color: rgb(202,76,128);
+}
+
+h2{
+  color: rgb(71,100,157);
+}
+
+h5{
+  color: rgb(148,53,93);
+}
+
+p{
+  color: rgb(248,30,153);
+}
+
+ul{
+  color: rgb(112,68,184);
+}
+
+ol{
+  list-style-type: lower-alpha;
+  color: rgb(124,61,192);
+}
